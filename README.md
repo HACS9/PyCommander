@@ -103,7 +103,7 @@ PyCommander/
 ├── main.py          # entire application — single file
 ├── README.md
 ├── .gitignore
-└── screenshots/     # add your own screenshots here
+└── screenshots/     
     ├── main.png
     ├── drive.png
     └── multi.png
